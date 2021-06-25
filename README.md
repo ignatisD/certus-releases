@@ -1,5 +1,11 @@
 # Release
 
+Version 1.0.3
+
+- Fix ticket printing with F1
+
+------------------------------
+
 Version 1.0.2
 
 - Add a view-bookings mode for tests
