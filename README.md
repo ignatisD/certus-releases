@@ -1,5 +1,11 @@
 # Release
 
+Version 1.0.4
+
+- Fix the timing of ticket printing
+
+------------------------------
+
 Version 1.0.3
 
 - Fix ticket printing with F1
